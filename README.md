@@ -5,9 +5,9 @@ I have extensive skills, including proficiency in:
 - creating content for social media 🌐📱💡🤳
 
 I have experience working with many programs, including: 
-- Canva
-- Photopea
-- Photoshop
+- <img src="canva_logo.png" alt="Photoshop" width="25px"> Canva
+- <img src="photopea_logo.png" alt="Photoshop" width="25px"> Photopea
+- <img src="photoshop_logo.png" alt="Photoshop" width="30px"> Photoshop
 
 I am currently focused on developing my own content on the internet.
 In the meantime, I am creating and editing videos.
